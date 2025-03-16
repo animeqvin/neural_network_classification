@@ -30,4 +30,3 @@ Neural Network Classification with PyTorch
 *Optimizer: SGD (lr=0.1).
 *Epochs: 1000 (the model trains 1000 times).
 *Accuracy Calculation: Counts how many correct predictions the model makes.
-Results
